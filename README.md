@@ -1,1 +1,2 @@
-# HyperTube1
+# HyperTube - project for Django Track on JetBrains Academy Hyperskill
+Who hasn't spent an evening watching videos on Youtube or some other video hosting? Today, video hostings have gotten extremely popular and basically replaced television. For some, it's entertainment, for others — it's business. With the help of Django, you will create your own simple web service for sharing, watching, and downloading videos.
